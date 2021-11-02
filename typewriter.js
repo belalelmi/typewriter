@@ -1,5 +1,5 @@
 
-let greeting = 'HI MY NAME IS BELAL HAJI ELMI\n';
+let greeting = 'HI MY NAME IS Belal H E.\n';
 let delay = 430;
 for (const x of greeting) {
   setTimeout(() => {
